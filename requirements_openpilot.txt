@@ -35,7 +35,7 @@ opencv-python==3.4.0.12
 pause==0.1.2
 psutil==3.4.2
 py==1.4.31
-pyOpenSSL==16.0.0
+pyOpenSSL==17.5.0
 pyasn1-modules==0.0.8
 pyasn1==0.1.9
 pycapnp==0.6.3
